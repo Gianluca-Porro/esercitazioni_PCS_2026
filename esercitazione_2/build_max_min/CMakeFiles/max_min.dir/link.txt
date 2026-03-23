@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/max_min.dir/link.d CMakeFiles/max_min.dir/max_min.cpp.o -o max_min

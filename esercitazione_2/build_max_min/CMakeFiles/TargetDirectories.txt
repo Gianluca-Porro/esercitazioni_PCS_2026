@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/esercitazioni_PCS_2026/esercitazione_2/build_max_min/CMakeFiles/max_min.dir
+/home/pcsdocker/Data/esercitazioni_PCS_2026/esercitazione_2/build_max_min/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/esercitazioni_PCS_2026/esercitazione_2/build_max_min/CMakeFiles/rebuild_cache.dir
